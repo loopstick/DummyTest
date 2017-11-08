@@ -1,5 +1,5 @@
-# Mechatronics-Spring-2017
-## Mechatronics at California College of the Arts, Spring 2017 
+# Mechatronics-Spring-2018
+## Mechatronics at California College of the Arts, Spring 2018 
 
 [End of Semester schedule](#end-of-semester-schedule)
 
@@ -7,7 +7,7 @@
 
 * Title: Mechatronics (Graduate Design)
 * Class: Tuesdays Noon - 3:00, Room 107 SF Main (SF Hybrid Lab)
-* Instructor: Michael Shiloh mshiloh@cca.edu
+* Instructor: Sudhu Tewari stewari@cca.edu or loopstick@hotmail.com
 * Office hours: 
 	* Tuesdays and Thursdays 3:00 - 3:30
 	* And at other times by appointment
@@ -19,7 +19,7 @@ so please ask questions and bring up topics you are curious about.
 
 #### Github and Class Repository
 We will be using a cloud service called Github. Our repository is at
-https://github.com/michaelshiloh/Mechatronics-Spring-2017
+https://github.com/loopstick/Mechatronics-Spring-2018
 
 The class repository will be used to assign homework and reading
 assignments, and will contain useful code, libraries, and links to other
